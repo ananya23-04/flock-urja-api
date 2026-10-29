@@ -1,0 +1,7 @@
+.venv/
+.env
+setenv.ps1
+__pycache__/
+*.pyc
+.pytest_cache/
+meter-export.json
